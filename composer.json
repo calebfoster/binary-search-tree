@@ -1,0 +1,16 @@
+{
+  "name": "calebfoster/binary-search-tree",
+  "authors": [
+    {
+      "name": "Caleb Foster",
+      "email": "foster.caleb@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "BinarySearchTree\\": "src/"
+    }
+  }
+
+}
